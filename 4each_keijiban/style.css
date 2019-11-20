@@ -1,0 +1,87 @@
+body{
+    font-family: sans-serif;
+}
+
+.headerlogo img{ 
+    width:20%;
+    max-height:auto;
+}
+
+header ul{
+    color: white;
+    font-size:12px;
+    background-color: black;
+    width:100%;
+    height:40px;
+    list-style-type: none;
+}
+
+header li{
+    display: inline;
+    margin: 10px;
+    padding-left: 6px;
+    line-height: 40px;
+}
+
+main .box1{
+    width: 70%;
+    height: auto;
+    display: inline-block;
+    
+}
+
+main .logo{
+    font-size:20px;
+    border-bottom: solid 1px black;
+    border-left: solid 2px black;
+    margin-bottom: 5px;
+}
+
+h2{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    border-left: 4px red solid;
+    background-color: #f1f1f1;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    width: 500px;
+    font-size: 20px;
+}
+
+form {
+    margin-left: 10px;
+    margin-bottom: 8px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    width: 500px;
+}
+
+main .kiji{
+    margin-left: 10px;
+    margin-bottom: 8px;
+    background-color: #fbfbfb;
+    width: 500px;
+    border: 2px #ebebeb solid;
+}
+
+h3{
+    border-bottom: 2px #ebebeb solid;
+}
+
+main .box5{
+    display: inline-block;
+    width: 25%;
+    height: auto;
+    float: right;
+    margin-left: 20px;
+}
+
+footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+    height: 25px;
+    padding-top: 5px;
+}
